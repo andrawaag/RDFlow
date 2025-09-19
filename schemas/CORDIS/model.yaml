@@ -1,0 +1,71 @@
+- ShapeProject <http://data.europa.eu/s66/ontology/Projects#2837863b-4985-3ffd-8499-c42c676d9a8b>:
+  - rdf:type: <http://data.europa.eu/s66/ontology#Project>
+  - <http://data.europa.eu/s66/ontology#url>:
+    - url: <https://cordis.europa.eu/project/rcn/223266/en?format=xml>
+  - pav:hasCurrentVersion:
+    - hascurrentversion: <http://data.europa.eu/s66/ontology/Versions#5530c5f2-2bfb-479f-b3dd-4036d4f2bc45>
+  - <http://data.europa.eu/s66/ontology#hasAcronym>:
+    - hasacronym: ShapeAcronym
+  - <http://data.europa.eu/s66/ontology#identifier>:
+    - identifier: 226589
+  - <http://data.europa.eu/s66/ontology#hasInvolvedParty>:
+    - hasinvolvedparty: <http://data.europa.eu/s66/ontology/OrganisationRoles#1e2273e1-03ee-3a26-9fc2-93ea3f729918>
+  - <http://data.europa.eu/s66/ontology#startDate>:
+    - startdate: "2009-04-01"
+  - <http://data.europa.eu/s66/ontology#endDate>:
+    - enddate: "2021-10-31"
+  - <http://data.europa.eu/s66/ontology#hasTotalCost>:
+    - hastotalcost: ShapeMonetaryamount
+  - pav:hasVersion:
+    - hasversion: <http://data.europa.eu/s66/ontology/Versions#461b213c-e4c7-477b-af5c-cce774ca1236>
+  - <http://data.europa.eu/s66/ontology#isFundedBy>:
+    - isfundedby: <http://data.europa.eu/s66/ontology/Grants#a3ac4182-1c49-3695-9077-d69ffd385472>
+  - <http://data.europa.eu/s66/ontology#rcn>:
+    - rcn: 206903
+  - <http://data.europa.eu/s66/ontology#duration>:
+    - duration: 42
+  - <http://data.europa.eu/s66/ontology#title>:
+    - title: "The International Law of Offshore Construction: Cutting Through Fragmented Legal Regimes Towards Better Governance"
+  - rdfs:label:
+    - label: "European Schoolnet Living Schools Lab"
+  - <http://data.europa.eu/s66/ontology#projectStatus>:
+    - projectstatus: "SIGNED"
+  - <http://data.europa.eu/s66/ontology#hasEuroSciVocClassification>:
+    - haseuroscivocclassification: <http://data.europa.eu/8mn/euroscivoc/192cfa59-26ab-465e-9338-2b957e3d79ba>
+  - <http://data.europa.eu/s66/ontology#abstract>:
+    - abstract: "The project is a mereological reconstruction of the metaphysical system in the Daodejing. The general motivation for the project is to fill the gap in Chinese and comparative philosophy the state of the art, where mereological as well as analytic reconstructions are scarce. The specific motivation is that mereological approach enables precise reconstruction that (a) offers a comprehensive conceptualization of Daoist metaphysical system and (b) allows to generate the issues and plausibly debates that so far have not been present in Chinese metaphysics. My project begins with the conceptualization of the Daoist system as monistic-materialistic one, after which I proceed to the mereological reconstruction. By resorting to the latest mereological research, I will analyze the status of the two fundamental elements of Daoist metaphysics, dao and you. Accordingly, I will show that these two ontic subregions should be reconstructed as two different mereological sums determined by atemporal unrestricted composition and temporal restricted composition respectively. Next, I will proceed to reconstructing the relation between the two sums, which will be conceptualized within the framework of Chinese causation theory. I will show that causality applies to the relations between parts that that the two mereological sums overlap. Next, I will proceed to a detailed reconstruction of the whole system, which will involve among others proving that with regard to parthood, the “atomless gunk” conception is more plausible than that of mereological singles. I will also discuss how the reconstruction is related to location, an issue that has been under intense discussion in contemporary mereological literature."
+  - <http://data.europa.eu/s66/ontology#hasResult>:
+    - hasresult: <http://data.europa.eu/s66/ontology/Results#f91879eb-5324-3352-bd9c-5c77169230be>
+  - <http://data.europa.eu/s66/ontology#signatureDate>:
+    - signaturedate: "2019-12-19"
+  - <http://data.europa.eu/s66/ontology#abstract>:
+    - abstract2: "The project is a mereological reconstruction of the metaphysical system in the Daodejing. The general motivation for the project is to fill the gap in Chinese and comparative philosophy the state of the art, where mereological as well as analytic reconstructions are scarce. The specific motivation is that mereological approach enables precise reconstruction that (a) offers a comprehensive conceptualization of Daoist metaphysical system and (b) allows to generate the issues and plausibly debates that so far have not been present in Chinese metaphysics. My project begins with the conceptualization of the Daoist system as monistic-materialistic one, after which I proceed to the mereological reconstruction. By resorting to the latest mereological research, I will analyze the status of the two fundamental elements of Daoist metaphysics, dao and you. Accordingly, I will show that these two ontic subregions should be reconstructed as two different mereological sums determined by atemporal unrestricted composition and temporal restricted composition respectively. Next, I will proceed to reconstructing the relation between the two sums, which will be conceptualized within the framework of Chinese causation theory. I will show that causality applies to the relations between parts that that the two mereological sums overlap. Next, I will proceed to a detailed reconstruction of the whole system, which will involve among others proving that with regard to parthood, the “atomless gunk” conception is more plausible than that of mereological singles. I will also discuss how the reconstruction is related to location, an issue that has been under intense discussion in contemporary mereological literature."
+  - <http://data.europa.eu/s66/ontology#title>:
+    - title2: "The International Law of Offshore Construction: Cutting Through Fragmented Legal Regimes Towards Better Governance"
+  - rdfs:label:
+    - label2: "European Schoolnet Living Schools Lab"
+
+- ShapeMonetaryamount <http://data.europa.eu/s66/ontology/Projects#79d3119a-318d-3f9d-a361-3d15dddb35ed>:
+  - rdf:type: <http://data.europa.eu/s66/ontology#MonetaryAmount>
+  - rdfs:label:
+    - label3: "2000000 EUR"
+  - <http://data.europa.eu/s66/ontology#value>:
+    - value: "4290939.41"
+  - <http://data.europa.eu/s66/ontology#currency>:
+    - currency: "EUR"
+
+- ShapeAcronym <http://data.europa.eu/s66/ontology/Acronyms#c5fd5b0d-680d-35c9-8a89-e861dfb364b2>:
+  - rdf:type: <http://data.europa.eu/s66/ontology#Acronym>
+  - <http://data.europa.eu/s66/ontology#shortForm>:
+    - shortform: "Yetitablet"
+  - <http://data.europa.eu/s66/ontology#isAcronymOf>:
+    - isacronymof: ShapeProject
+  - rdfs:label:
+    - label4: "EarthServer: European Scalable Earth Science Service Environment"
+  - <http://data.europa.eu/s66/ontology#definition>:
+    - definition: "In-field wireless sensor network to predict rice blast"
+  - rdfs:label:
+    - label5: "EarthServer: European Scalable Earth Science Service Environment"
+  - <http://data.europa.eu/s66/ontology#definition>:
+    - definition2: "In-field wireless sensor network to predict rice blast"
+
