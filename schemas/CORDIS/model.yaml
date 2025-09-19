@@ -1,4 +1,4 @@
-- ShapeProject <http://data.europa.eu/s66/ontology/Projects#2837863b-4985-3ffd-8499-c42c676d9a8b>:
+p- ShapeProject <http://data.europa.eu/s66/ontology/Projects#2837863b-4985-3ffd-8499-c42c676d9a8b>:
   - rdf:type: <http://data.europa.eu/s66/ontology#Project>
   - <http://data.europa.eu/s66/ontology#url>:
     - url: <https://cordis.europa.eu/project/rcn/223266/en?format=xml>
